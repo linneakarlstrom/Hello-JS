@@ -1,6 +1,6 @@
 // for loop från w3schools med listor 
-var chips = ["Sour cream & onion", "Fresh island", "Linsschips", "Pringles"];
+var chips = ["Sour cream & onion chips", "Fresh island chips", "Linsschips", "Pringles chips"];
 
-chips.forEach(function(value,index){
-    alert("I like "+ value + " :)")
-});
+for (var i=0; i < chips.length; i++) {
+    alert("You have "+ chips[i] + " at home")
+}
