@@ -1,5 +1,5 @@
 body {
-    background: url('../Hello-JS/images/web-background.jpg');;
+    background-image: url("../Hello-JS/images/web-background.jpg");
 }
 h1   {
     color: deeppink;
