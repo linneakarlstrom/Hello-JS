@@ -1,0 +1,2 @@
+# Hello Javascript
+This is a project that contains everything that you need to create a website. In this case my website contains many different things, everything from videos to a special greeting depending on when you are on the website.
